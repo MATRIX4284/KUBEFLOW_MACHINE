@@ -1,0 +1,6 @@
+echo "# KUBEFLOW_0.7__MANUAL" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MATRIX4284/KUBEFLOW_0.7__MANUAL.git
+git push -u origin master
